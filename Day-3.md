@@ -1,5 +1,4 @@
-
-# Day 3 - Ansible Setup & SSH
+# Day 3 - Ansible Setup & SSH:
 
 ## What I did today:
 - Created 2 EC2 instances (Ansible + Target)
